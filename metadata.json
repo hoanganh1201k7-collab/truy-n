@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Fairy Tale Video Generator",
+  "description": "An application that generates a complete, narrated, and illustrated video of the Vietnamese fairy tale 'The Hundred-Knot Bamboo Tree' using AI. It creates the script, voice-overs for each character, illustrative images, and video clips scene by scene.",
+  "requestFramePermissions": []
+}
